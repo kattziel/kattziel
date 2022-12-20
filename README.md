@@ -5,7 +5,8 @@ If you are looking for an _ambitious, hard-working, creative and communicative_ 
 We should give it a try 🚀
 
 Native proficiency: 🇵🇱Polish
-Working proficiency: 🇩🇪German, 🇬🇧English
+
+Working proficiency: German 🇩🇪 English 🇬🇧🇺🇸
 
 LANGUAGES & TOOLS
 
