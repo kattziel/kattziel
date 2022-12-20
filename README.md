@@ -1,16 +1,24 @@
-### Hi there 👋
+Hi, I am Katarzyna, 28-year-old based in Wrocław, Poland 👋 Thanks for comming in! Check out my latest projects! 🎈
 
-<!--
-**kattziel/kattziel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am looking for a job as a Junior Frontend Developer 👀 I'm open to both job opportunities and project collaborations 👯
 
-Here are some ideas to get you started:
+Native proficiency: 🇵🇱Polish
+Working proficiency: 🇩🇪German, 🇬🇧English
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+LANGUAGES & TOOLS
+
+- JS ✨
+- React.js ✨
+- TypeScript ✨
+- HTML5, CSS3 ✨
+- Git, GitHub, Trello ✨
+- Scrum, Agile, Kanban ✨
+
+🔭 I’m starting to learn Node.js 🌱
+
+Fun fact: lawyer with seven years of experience 👨‍⚖️
+
+📫 How to reach me:
+LINKEDIN: https://www.linkedin.com/in/kattziel/
+
+Feel free to contact me 📨📥
