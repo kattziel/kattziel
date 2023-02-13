@@ -13,6 +13,7 @@ LANGUAGES & TOOLS
 - JS ✨
 - React.js ✨
 - TypeScript ✨
+- React Native ✨
 - HTML5, CSS3 ✨
 - Git, GitHub, Trello ✨
 - Scrum, Agile, Kanban ✨
