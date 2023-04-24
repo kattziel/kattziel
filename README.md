@@ -11,16 +11,14 @@ Working proficiency: German 🇩🇪 English 🇬🇧🇺🇸
 LANGUAGES & TOOLS
 
 - JS ✨
+- React Native ✨ 
 - React.js ✨
 - TypeScript ✨
-- React Native ✨
 - HTML5, CSS3 ✨
 - Git, GitHub, Trello ✨
 - Scrum, Agile, Kanban ✨
 
-🔭 I’m starting to learn Node.js 🌱
-
-Fun fact: lawyer with seven years of experience 👨‍⚖️
+🔭 Every day is a school day 🌱
 
 📫 How to reach me:
 LINKEDIN: https://www.linkedin.com/in/kattziel/
