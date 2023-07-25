@@ -14,6 +14,7 @@ LANGUAGES & TOOLS
 - React Native ✨ 
 - React.js ✨
 - TypeScript ✨
+- GraphQL - in progress
 - HTML5, CSS3 ✨
 - Git, GitHub, Trello ✨
 - Scrum, Agile, Kanban ✨
