@@ -1,5 +1,5 @@
 Hi, I am Katarzyna, currently based in Wrocław, Poland 👋 Thanks for comming in! Check out my latest projects! 🎈
-I am looking for a job as a Junior Software Engineer 👀 I'm open to both job opportunities and project collaborations 👯
+I am looking for a job as a Junior Software Engineer. I'm open to both job opportunities and project collaborations.
 
 If you are looking for an _ambitious, hard-working, creative and communicative_ team member, feel free to contact me 📨📥
 We should give it a try 🚀
